@@ -3,7 +3,7 @@
 
 ## 视频教程
 在线观看视频教程：
-[http://study.163.com/course/courseMain.htm?courseId=1004856021](http://study.163.com/course/courseLearn.htm?courseId=1004856021)
+[云课堂视频教程](http://study.163.com/course/courseMain.htm?courseId=1004856021&utm_campaign=commission&utm_source=cp-400000000351011&utm_medium=share)
 
 # 教程资料
 
