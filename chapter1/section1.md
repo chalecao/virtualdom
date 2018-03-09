@@ -7,6 +7,8 @@
 各个节点我们按照数学的语言可以看出DOM就是一堆节点的集合，如下所示：
 DOM = {node1,node2,node3....noden}
 
+![](1.png)
+
 ### 什么是VirtualDOM
 VDOM = Virtual Document Object Model
 VNODE = Virtual Node = Node in memory (可以理解为内存中的节点，还没有挂载展示到页面上的节点)
@@ -16,3 +18,7 @@ VNODE = Virtual Node = Node in memory (可以理解为内存中的节点，还�
 同DOM一样 VDOM = {Vnode1,Vnode2,Vnode3....Vnoden} 就是一堆VNODE的集合
 
 实例请参考视频做练习。
+
+![](2.png)
+
+![](3.png)
