@@ -35,4 +35,3 @@
     * [课时10 函数式编程与应用](chapter5/section2.md)
     * [课时11 基于VM的工程化组件开发与应用](chapter5/section3.md)
 
-官方博客：[fed123.com](http://fed123.com)
